@@ -183,11 +183,11 @@ a.portfolioLink:visited {
     a.portfolioLink:visited {
         color: #ffffff;
 }
-
+}
 /* Large Screens */
 @media(min-width:980px) {
     .contentContainer {
         max-width: 700px;
         margin-left: 5em;
     }
-}
+} 
